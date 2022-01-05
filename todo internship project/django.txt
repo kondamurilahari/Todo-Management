@@ -1,0 +1,23 @@
+djano is a freee and open source framework for bulding web apps with python.
+it is server side  tool .
+it is popular because of less time and less code we can do this.
+*youtube
+*instagram
+*spotify
+*dropbox
+use django in their tech stack
+* we call djano as battery included framework.ot comes with the lot of features
+ out of box so we don't have to code from sctrach.
+
+APPLICATIONS:
+it gives us admin webiste- for managing our data which is a huge
+we also have OBJECT RELATIONAL MAPPER(orm) that abstracts the data base without writing a lot of sql code.
+it also comes with authentication and caching.
+
+we used html for representing web pages.
+application programming interface provide a server to the clients.
+by using api clients can get or save the data.
+from models wil retrive the data
+through this project we can say the realtion is 1 to many beacuse a student can have many tasks to complete.
+
+{%   %} syntax
